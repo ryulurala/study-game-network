@@ -1,4 +1,4 @@
-# study_game-network
+# study-game-network
 
 Studying for making multiplayer network game
 
